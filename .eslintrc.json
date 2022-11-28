@@ -13,7 +13,7 @@
     "indent": ["error", 4],
     "space-infix-ops": ["error", { "int32Hint": false }],
     "quotes": ["error", "single"],
-    "var": "never",
+    "no-var": "error",
     "let": "always",
     "const": "always",
     "prefer-const": [
