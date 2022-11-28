@@ -26,6 +26,7 @@
     "no-cond-assign": ["error", "always"],
     "no-extra-semi": "error",
     "no-inline-comments": "error",
-    "no-else-return": "error"
+    "no-else-return": "error",
+    "curly": "error"
   }
 }
