@@ -1,0 +1,33 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": "eslint:recommended",
+  "overrides": [],
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "rules": {
+    "indent": ["error", 4],
+    "space-infix-ops": ["error", { "int32Hint": false }],
+    "quotes": ["error", "single"],
+    "var": "never",
+    "let": "always",
+    "const": "always",
+    "prefer-const": [
+      "error",
+      {
+        "destructuring": "any",
+        "ignoreReadBeforeAssign": false
+      }
+    ],
+    "eqeqeq": ["error", "always"],
+    "no-console": "error",
+    "no-cond-assign": ["error", "always"],
+    "no-extra-semi": "error",
+    "no-inline-comments": "error",
+    "no-else-return": "error"
+  }
+}
