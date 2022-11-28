@@ -1,0 +1,4 @@
+keyStore: store
+keyPath: react-sprint7/tools-eslint.key
+secretName: KEY_TESTS
+illegalChanges: []

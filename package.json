@@ -1,0 +1,9 @@
+{
+  "name": "eslint_project",
+  "version": "1.0.0",
+  "description": "eslint project",
+  "author": "IT Academy",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
