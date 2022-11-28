@@ -14,8 +14,6 @@
     "space-infix-ops": ["error", { "int32Hint": false }],
     "quotes": ["error", "single"],
     "no-var": "error",
-    "let": "always",
-    "const": "always",
     "prefer-const": [
       "error",
       {
